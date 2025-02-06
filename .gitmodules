@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Shruti-Mishra-Git/office-seat-management-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Shruti-Mishra-Git/office-seat-management-backend.git
